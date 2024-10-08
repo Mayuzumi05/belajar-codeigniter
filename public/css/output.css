@@ -604,8 +604,17 @@ video {
   position: relative;
 }
 
+.my-\[16px\] {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
 .mb-\[16px\] {
   margin-bottom: 16px;
+}
+
+.mt-\[16px\] {
+  margin-top: 16px;
 }
 
 .block {
